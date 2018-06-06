@@ -1,0 +1,40 @@
+﻿body {
+    background-image: url(images/river1.jpg);
+    background-size: cover;
+    background-color: #ecf0f1;
+    background-repeat: no-repeat;
+}
+.header-image {
+    width: 100%;
+}
+.contentbox {    
+    width: 600px;
+    height: 500px;
+    background:rgba(255,255,255,0.5);
+    position: absolute;
+    top:200;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+.content {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size:25px;
+    padding-bottom:10px;
+}
+.heading {
+    font-size: 50px;
+    position:relative;
+    max-width: 600px;
+    height = 400px;
+}
+.fb-follow {
+    margin-left: 115px;
+}
+
+.pluginFontHelvetica, .pluginFontHelvetica button, .pluginFontHelvetica input, .pluginFontHelvetica label, .pluginFontHelvetica select, .pluginFontHelvetica td, .pluginFontHelvetica textarea {
+    font-size:15px;
+}
